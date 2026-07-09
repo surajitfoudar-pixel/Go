@@ -1,0 +1,6 @@
+{
+  "name": "Ethical Hacking Course",
+  "description": "Learn ethical hacking from zero to advanced with hands-on command labs, interactive quizzes, and an AI-powered security mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
